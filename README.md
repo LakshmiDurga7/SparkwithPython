@@ -1,2 +1,2 @@
 # SparkwithPython
-Practicing every projects in pasrk
+Practicing every projects in spark
